@@ -1,0 +1,17 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-typescript": "^7.16.0",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.3.1"
+  }
+}
